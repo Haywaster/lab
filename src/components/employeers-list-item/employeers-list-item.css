@@ -28,6 +28,8 @@
     font-size: 17px;
     border: none;
     cursor: pointer;
+} :focus {
+    outline: none;
 }
 
 .list-group-item .btn-cookie {
